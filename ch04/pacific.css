@@ -42,7 +42,7 @@ footer { font-size: 0.70em;
 	min-width: 700px;
 	margin: auto;
 	background-color: #ffffff;
-	box-shadow: 5px 10px;
+	box-shadow: 2px 2px 2px #000000;
 }
 main {padding-left: 20px;
 	padding-right: 20px;
