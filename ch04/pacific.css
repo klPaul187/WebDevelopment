@@ -6,6 +6,9 @@ body { background-color:#FFFFFF;
 	font-family: Verdana, Arial, sans-serif;
 	padding-left: 20px;
 }
+img {
+	padding: none;
+}
 div {Background-color:white;
 	padding-left: 20px;
 }
