@@ -5,7 +5,9 @@ body { background-color:#FFFFFF;
 	color: #666666;
 	font-family: Verdana, Arial, sans-serif;
 }
-div {Background-color:white;}
+div {Background-color:white;
+	padding-left: 20px;
+}
 a {
 	text-decoration:none;
 }
