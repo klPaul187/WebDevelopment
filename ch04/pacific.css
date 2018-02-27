@@ -6,7 +6,9 @@ body { background-color:#FFFFFF;
 	font-family: Verdana, Arial, sans-serif;
 }
 div {Background-color:white;}
-
+a {
+	text-decoration:none;
+}
 h1 { background-color: #000033;
 	background-image: url("sunset.jpg");
 	background-repeat: no-repeat;
