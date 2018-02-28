@@ -9,7 +9,7 @@ div {Background-color:white;
 	padding-left: 20px;
 }
 .nopadding {
-	padding-left: -20px;
+	padding: 0px;
 }
 a {
 	text-decoration:none;
