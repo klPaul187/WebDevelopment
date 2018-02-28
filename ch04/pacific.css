@@ -8,9 +8,8 @@ body { background-color:#FFFFFF;
 div {Background-color:white;
 	padding-left: 20px;
 }
-img {
-	padding: 0px;
-	margin: 0px;
+.nopadding {
+	margin-left: -20px;
 }
 a {
 	text-decoration:none;
