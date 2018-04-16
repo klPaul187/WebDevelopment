@@ -1,0 +1,138 @@
+
+#wrapper {
+    width: 100%;
+    min-width: 100%;
+    max-width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h1 { color: #000000;
+}
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Saira Extra Condensed', serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #343a40;
+}
+
+h1 {
+    font-size: 6rem;
+    line-height: 5.5rem;
+}
+
+.sh1 {
+    color: #ff0000 !important;
+}
+table, th, td {
+	border: 1px solid black;
+	
+}
+
+h2 {
+    font-size: 3.5rem;
+}
+
+a {
+    color: #BD5000;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+a:hover, a:focus, a:active {
+    color: #BD9D7F;
+}
+
+.text {
+    font-size: 28px !important;
+}
+
+.subheading {
+    font-size: 20px !important;
+}
+
+.webtitle {
+    display: none;
+}
+
+body {
+    font-family: 'Saira Extra Condensed', serif;
+    background-color: #ffffe6;
+    left: 250px;
+    position: absolute;
+
+}
+.gallery {
+	margin: 10px 50px;
+}
+.gallery img{
+	padding: 5px;
+	filter: grayscale(100%);
+	transition: 1s;
+}
+.gallery img:hover{
+	filter: grayscale(0);
+	transform: scale(1.1);
+}
+.navbar {
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: block;
+    flex-direction: column;
+    width: 15rem;
+    height: 100%;
+    background-color: 	#000000 !important;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.imgprofile {
+    width: 10rem;
+    height: 10rem;
+    border: 0.5rem solid rgba(255, 255, 255, 0.2);
+    border-radius: 50% !important;
+}
+.right {
+    position: absolute;
+    right: 0px;
+    width: 300px;
+    padding: 10px;
+}
+
+.icon {
+display: none;
+color:#fbf9f4 !important;
+}
+
+.navbar-collapse {
+    display: flex;
+    align-items: flex-start;
+    flex-grow: 0;
+    width: 100%;
+    margin-bottom: auto;
+    flex-direction: column;
+    margin-top: 0px;
+    margin-left: 10%;
+    margin-right: auto;
+    margin-bottom: auto;
+    max-width: 10rem;
+    max-height: 0px;
+}
+
+.link {
+  color: #fff;
+font-size: 120%;
+}
+
+.section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+
+}
